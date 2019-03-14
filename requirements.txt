@@ -8,3 +8,6 @@ scipy
 nltk
 elasticsearch
 pexpect==4.2.1
+
+#for api
+flask
